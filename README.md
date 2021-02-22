@@ -1,9 +1,9 @@
 # multiple-imager-js
 
 - Quraşdırılma qaydası və əlaqəli faylların qoşulmasl
-- - Bootstrap css inteqrasiyası(https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css)
-- - Font Awesome inteqrasiya edilməsi(https://kit.fontawesome.com/1154e1d6ee.js)
-- - Qoşmanın öz style faylının inteqrasiyası(libs/multiple-imager-js/css/imager.css)
+    - Bootstrap css inteqrasiyası(https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css)
+    - Font Awesome inteqrasiya edilməsi(https://kit.fontawesome.com/1154e1d6ee.js)
+    - Qoşmanın öz style faylının inteqrasiyası(libs/multiple-imager-js/css/imager.css)
 
 <p>
     Təq kompleksinin yerləşdirilməsi
@@ -19,8 +19,8 @@
     &lt;/div&gt;
 </pre>
 
-- - Jquery inteqrasiyası(https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js)
-- - Qoşmanın öz script faylının inteqrasiyası(libs/multiple-imager-js/js/imager.js)
+    - Jquery inteqrasiyası(https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js)
+    - Qoşmanın öz script faylının inteqrasiyası(libs/multiple-imager-js/js/imager.js)
 
 <p>
     Builder methodun çağırılması
