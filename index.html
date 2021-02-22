@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
+    <script src="https://kit.fontawesome.com/1154e1d6ee.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="libs/multiple-imager-js/css/imager.css">
+</head>
+
+<body>
+    <div style="width: 600px;" class="imager-container" id="viewer1" name="files">
+        <label thumb-url='https://picsum.photos/300?v=1' image-id="1" checked="true"></label>
+        <label thumb-url='https://picsum.photos/300?v=2' image-id="2"></label>
+        <label thumb-url='https://picsum.photos/300?v=3' image-id="3"></label>
+        <label thumb-url='https://picsum.photos/300?v=4' image-id="4"></label>
+        <label thumb-url='https://picsum.photos/300?v=5' image-id="5"></label>
+    </div>
+
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum pariatur fugit atque inventore est. Voluptate saepe eveniet sed mollitia corrupti, quam, animi placeat nesciunt dolor aliquam nemo laborum impedit neque.
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script>
+    <script src="libs/multiple-imager-js/js/imager.js"></script>
+    <script>
+        $('#viewer1').imgadd({
+            tnWidth: '120px',
+            tnHeight: '120px',
+            fontSize: '55px',
+            plusInnerHtml: '',
+            plusBtnClass: undefined
+        });
+    </script>
+</body>
+
+</html>
