@@ -19,8 +19,8 @@
     &lt;/div&gt;
 </pre>
 
-    - Jquery inteqrasiyası(https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js)
-    - Qoşmanın öz script faylının inteqrasiyası(libs/multiple-imager-js/js/imager.js)
+-   Jquery inteqrasiyası(https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js)
+-   Qoşmanın öz script faylının inteqrasiyası(libs/multiple-imager-js/js/imager.js)
 
 <p>
     Builder methodun çağırılması
