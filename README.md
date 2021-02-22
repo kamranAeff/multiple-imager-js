@@ -27,7 +27,7 @@
 </p>
 
 <pre>
-&lt;script&gt;
+    &lt;script&gt;
         $('#viewer1').imgadd({
             tnWidth: '120px',
             tnHeight: '120px',
