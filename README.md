@@ -38,3 +38,23 @@
     &lt;/script&gt;
 </pre>
 
+
+
+<pre>
+ConnectionStringExamples:
+
+SqlAuthentication
+   data source=your_instance_name;
+   initial catalog=your_database_name;
+   user id=your_login;
+   password=your_password;   
+   MultipleActiveResultSets=True
+
+
+Windows Authentication
+   data source=your_instance_name;
+   initial catalog=your_database_name;
+   persist security info=True; 
+   Integrated Security=SSPI;
+</pre>
+
